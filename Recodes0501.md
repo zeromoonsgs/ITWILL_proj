@@ -94,3 +94,5 @@ chart.js api - 최근 많이 팔린 제품이나 많이 시청한 영화 차트�
 
 중고거래 사이트 구현 - https://github.com/junshock5/used-market-server 
 ```
+
+![KakaoTalk_20220501_204747527](https://user-images.githubusercontent.com/95197594/166169892-a3ffcd74-410a-4b8e-b985-092ad29731b0.png)
